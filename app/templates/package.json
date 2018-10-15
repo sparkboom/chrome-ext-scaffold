@@ -1,6 +1,6 @@
 {
-  "name": "whistlecat",
-  "version": "0.2.7",
+  "name": "%%EXT_NAME%%",
+  "version": "0.0.1",
   "description": "",
   "main": "content_script.js",
   "scripts": {

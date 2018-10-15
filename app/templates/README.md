@@ -1,4 +1,4 @@
-### A template for Chrome extensions
+### %%EXT_NAME%%
 
 Nice things:
 
